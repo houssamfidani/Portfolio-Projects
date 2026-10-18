@@ -1,0 +1,13 @@
+<human>: What's the weather like in Paris right now?
+<assistant>: <call>{"name": "get_weather", "arguments": {"city": "Paris"}}</call>
+<result>: {"city": "Paris", "weather": "12°C, light rain"}
+<assistant>: The weather in Paris is currently 12°C with light rain.
+
+<human>: Should I take an umbrella in Abu Dhabi today?
+<assistant>: <call>{"name": "get_weather", "arguments": {"city": "Abu Dhabi"}}</call>
+<result>: {"city": "Abu Dhabi", "weather": "35°C, sunny"}
+<assistant>: The current weather in Abu Dhabi is 35°C with sunny conditions. You can take an umbrella if you need.
+
+<human>: Can you book a flight to Paris for me?
+<assistant>: I'm sorry, but I don't have the capability to book flights. My current function allows me to get the current weather in a given city. If you need help with that, feel free to ask!
+

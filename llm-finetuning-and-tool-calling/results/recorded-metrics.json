@@ -1,0 +1,36 @@
+{
+  "model": "Qwen/Qwen3.5-0.8B-Base",
+  "hardware": "NVIDIA Tesla T4",
+  "training_examples_available": 4934,
+  "validation_examples": 50,
+  "summarization_optimizer_steps": 100,
+  "effective_batch_size": 8,
+  "validation_loss": [
+    {
+      "step": 0,
+      "loss": 2.330853223800659
+    },
+    {
+      "step": 25,
+      "loss": 2.292469
+    },
+    {
+      "step": 50,
+      "loss": 2.286565
+    },
+    {
+      "step": 75,
+      "loss": 2.215843
+    },
+    {
+      "step": 100,
+      "loss": 2.170987
+    }
+  ],
+  "tool_conversations_available": 670,
+  "tool_optimizer_steps": 50,
+  "tool_demonstrations": 3,
+  "tool_held_out_evaluation": false,
+  "trainable_parameters": 21645312,
+  "total_parameters_with_adapters": 774038336
+}

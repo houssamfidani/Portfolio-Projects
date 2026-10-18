@@ -1,0 +1,30 @@
+config_1
+parties : 100
+simulations : 50
+epochs : 10
+perte finale : 2.653829
+test aleatoire joueur 1 : 1.000000 0.000000
+test aleatoire joueur 2 : 1.000000 0.000000
+test amélioré joueur 1 : 0.580000 0.120000
+test amélioré joueur 2 : 0.440000 0.100000
+
+config_2
+parties : 200
+simulations : 100
+epochs : 20
+perte finale : 2.633240
+test aleatoire joueur 1 : 0.960000 0.020000
+test aleatoire joueur 2 : 1.000000 0.000000
+test amélioré joueur 1 : 0.660000 0.160000
+test amélioré joueur 2 : 0.680000 0.100000
+
+config_3
+parties : 300
+simulations : 150
+epochs : 50
+perte finale : 2.347066
+test aleatoire joueur 1 : 1.000000 0.000000
+test aleatoire joueur 2 : 0.960000 0.000000
+test amélioré joueur 1 : 0.760000 0.060000
+test amélioré joueur 2 : 0.640000 0.080000
+
