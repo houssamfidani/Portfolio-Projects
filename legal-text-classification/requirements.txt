@@ -1,0 +1,15 @@
+# Core dependency versions were not captured in the original notebook.
+numpy
+pandas
+matplotlib
+beautifulsoup4
+scikit-learn
+torch
+transformers
+datasets
+accelerate
+jupyterlab
+tqdm
+ipywidgets
+
+# Optional Jev API experiment: install typesafe-sdk==0.7.5 in notebook section 5.

@@ -33,4 +33,6 @@ attention-based-translation/data/
 attention-based-translation/data.zip
 attention-based-translation/checkpoints/
 llm-finetuning-and-tool-calling/outputs/
+legal-text-classification/data/
+legal-text-classification/juribert_checkpoints/
 runs/
