@@ -1,0 +1,9 @@
+jupyterlab
+numpy
+scipy
+matplotlib
+opencv-python-headless
+scikit-learn
+scikit-image
+pillow
+requests

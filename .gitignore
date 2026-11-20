@@ -36,3 +36,18 @@ llm-finetuning-and-tool-calling/outputs/
 legal-text-classification/data/
 legal-text-classification/juribert_checkpoints/
 runs/
+
+# Visual retrieval assets downloaded by the notebook
+visual-instance-retrieval/data/
+visual-instance-retrieval/image_cache/
+visual-instance-retrieval/scene-images.tar.gz
+visual-instance-retrieval/*.mat
+visual-instance-retrieval/*.part
+
+# Image classification datasets
+neural-networks-for-image-classification/data/
+
+# Post-training adapters, merged weights, and generated evaluations
+language-model-preference-optimization/dpo_model/
+language-model-preference-optimization/grpo_model/
+language-model-preference-optimization/evaluations/

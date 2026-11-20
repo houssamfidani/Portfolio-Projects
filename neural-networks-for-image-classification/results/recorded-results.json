@@ -1,0 +1,215 @@
+{
+  "two_moons": [
+    {
+      "run": 1,
+      "train_error_pct": 0.8,
+      "validation_error_pct": 0.8
+    },
+    {
+      "run": 2,
+      "train_error_pct": 1.3,
+      "validation_error_pct": 1.8
+    },
+    {
+      "run": 3,
+      "train_error_pct": 0.8,
+      "validation_error_pct": 0.7
+    },
+    {
+      "run": 4,
+      "train_error_pct": 0.5,
+      "validation_error_pct": 0.6
+    },
+    {
+      "run": 5,
+      "train_error_pct": 0.8,
+      "validation_error_pct": 0.6
+    }
+  ],
+  "cifar10": {
+    "linear": [
+      {
+        "epoch": 1,
+        "mean_loss": 1.785,
+        "correct": 3810,
+        "test_size": 10000
+      },
+      {
+        "epoch": 2,
+        "mean_loss": 1.7449,
+        "correct": 4019,
+        "test_size": 10000
+      },
+      {
+        "epoch": 3,
+        "mean_loss": 1.7337,
+        "correct": 3981,
+        "test_size": 10000
+      },
+      {
+        "epoch": 4,
+        "mean_loss": 1.7415,
+        "correct": 3917,
+        "test_size": 10000
+      },
+      {
+        "epoch": 5,
+        "mean_loss": 1.731,
+        "correct": 3985,
+        "test_size": 10000
+      },
+      {
+        "epoch": 6,
+        "mean_loss": 1.7275,
+        "correct": 4051,
+        "test_size": 10000
+      },
+      {
+        "epoch": 7,
+        "mean_loss": 1.7259,
+        "correct": 4047,
+        "test_size": 10000
+      },
+      {
+        "epoch": 8,
+        "mean_loss": 1.7272,
+        "correct": 4063,
+        "test_size": 10000
+      },
+      {
+        "epoch": 9,
+        "mean_loss": 1.7492,
+        "correct": 3914,
+        "test_size": 10000
+      },
+      {
+        "epoch": 10,
+        "mean_loss": 1.7193,
+        "correct": 4136,
+        "test_size": 10000
+      }
+    ],
+    "cnn": [
+      {
+        "epoch": 1,
+        "mean_loss": 1.7749,
+        "correct": 3741,
+        "test_size": 10000
+      },
+      {
+        "epoch": 2,
+        "mean_loss": 1.5978,
+        "correct": 4260,
+        "test_size": 10000
+      },
+      {
+        "epoch": 3,
+        "mean_loss": 1.4736,
+        "correct": 4714,
+        "test_size": 10000
+      },
+      {
+        "epoch": 4,
+        "mean_loss": 1.4479,
+        "correct": 4809,
+        "test_size": 10000
+      },
+      {
+        "epoch": 5,
+        "mean_loss": 1.3591,
+        "correct": 5150,
+        "test_size": 10000
+      },
+      {
+        "epoch": 6,
+        "mean_loss": 1.3204,
+        "correct": 5298,
+        "test_size": 10000
+      },
+      {
+        "epoch": 7,
+        "mean_loss": 1.2812,
+        "correct": 5424,
+        "test_size": 10000
+      },
+      {
+        "epoch": 8,
+        "mean_loss": 1.2445,
+        "correct": 5605,
+        "test_size": 10000
+      },
+      {
+        "epoch": 9,
+        "mean_loss": 1.1457,
+        "correct": 5937,
+        "test_size": 10000
+      },
+      {
+        "epoch": 10,
+        "mean_loss": 1.1491,
+        "correct": 5943,
+        "test_size": 10000
+      },
+      {
+        "epoch": 11,
+        "mean_loss": 1.2919,
+        "correct": 5437,
+        "test_size": 10000
+      },
+      {
+        "epoch": 12,
+        "mean_loss": 1.1324,
+        "correct": 5981,
+        "test_size": 10000
+      },
+      {
+        "epoch": 13,
+        "mean_loss": 1.042,
+        "correct": 6344,
+        "test_size": 10000
+      },
+      {
+        "epoch": 14,
+        "mean_loss": 1.2036,
+        "correct": 5822,
+        "test_size": 10000
+      },
+      {
+        "epoch": 15,
+        "mean_loss": 1.022,
+        "correct": 6410,
+        "test_size": 10000
+      },
+      {
+        "epoch": 16,
+        "mean_loss": 1.1334,
+        "correct": 6069,
+        "test_size": 10000
+      },
+      {
+        "epoch": 17,
+        "mean_loss": 0.992,
+        "correct": 6541,
+        "test_size": 10000
+      },
+      {
+        "epoch": 18,
+        "mean_loss": 0.986,
+        "correct": 6547,
+        "test_size": 10000
+      },
+      {
+        "epoch": 19,
+        "mean_loss": 0.9904,
+        "correct": 6574,
+        "test_size": 10000
+      },
+      {
+        "epoch": 20,
+        "mean_loss": 1.0029,
+        "correct": 6508,
+        "test_size": 10000
+      }
+    ]
+  }
+}

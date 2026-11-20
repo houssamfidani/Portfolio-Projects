@@ -1,0 +1,29 @@
+{
+  "indexed_paintings": 1611,
+  "vocabulary_size": 10000,
+  "query": "mistery-painting1.jpg",
+  "original_ranks_after_reranking": [
+    2,
+    1,
+    3,
+    7,
+    5,
+    10,
+    6,
+    4,
+    8,
+    9
+  ],
+  "geometric_inliers": [
+    69,
+    67,
+    14,
+    10,
+    8,
+    6,
+    5,
+    4,
+    4,
+    4
+  ]
+}

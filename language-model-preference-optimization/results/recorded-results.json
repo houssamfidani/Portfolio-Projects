@@ -1,0 +1,21 @@
+{
+  "base_model": "Qwen/Qwen3-0.6B",
+  "french_dpo": {
+    "sampled_pairs": 1000,
+    "retained_pairs": 981,
+    "steps": 246,
+    "training_loss": 0.20910546857838908
+  },
+  "gsm8k_grpo": {
+    "training_problems": 200,
+    "generations_per_prompt": 2,
+    "steps": 50,
+    "training_loss": 0.0065073071885854
+  },
+  "gsm8k_test": {
+    "requested_examples_per_model": 200,
+    "base_accuracy": null,
+    "grpo_accuracy": null,
+    "status": "No final evaluation metrics were saved."
+  }
+}
